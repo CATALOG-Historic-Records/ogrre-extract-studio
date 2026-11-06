@@ -1,0 +1,262 @@
+{
+  "CompanyName": "ENVIRONMENTAL SERVICE LABORATORIES, INC.",
+  "Block_1": {
+    "Address": "1803 Philadelphia St.",
+    "City": "Indiana",
+    "State": "PA",
+    "ZipCode": "15701"
+  },
+  "Block_2": {
+    "Address": "1276 Bentleyville Rd.",
+    "City": "Van Voorhis",
+    "State": "PA",
+    "ZipCode": "15366"
+  },
+  "Block_3": {
+    "Address": "1200 River Avenue",
+    "City": "Williamsport",
+    "State": "PA",
+    "ZipCode": "17701"
+  },
+  "P": "(724 463-TEST",
+  "P_02": "(724) 258 TEST",
+  "P_03": "(570} 321-9002",
+  "F": "(724) 258-8376",
+  "F_02": "(570) 321-1957",
+  "F_03": "(724} 465-4209",
+  "PADEP": "32·00382",
+  "PADEP_02": "63-04247",
+  "PADEP_03": "41-04880",
+  "Block_16": {
+    "CompanyName": "PennEnergy Resources, LLC",
+    "Address": "1000 Commerce Drive",
+    "City": "Pittsburgh",
+    "State": "PA",
+    "ZipCode": "15275"
+  },
+  "Reported": "08/28/2014 14·59",
+  "Lab Sample ID#": "4080992-02",
+  "Sample Type": "Solid",
+  "Sample Date": "2014-08-08 13:30:00",
+  "Sample Source": "Leachale",
+  "Receipt Date": "2014-08-08 20:00:00",
+  "Sampler": "Brian Lybarger",
+  "Client Sample ID": "B4 Pad TCLP Leach",
+  "Table_1": {
+    "General Chemistry": {
+      "pH": {
+        "Sample Result": "4.80",
+        "Units": "S.U.",
+        "RL": "1.00",
+        "Method": "SM4500-H B-00",
+        "Analyst Cerlification": "LAL",
+        "Analysis Date/Time": "08/20/14 15:17"
+      }
+    },
+    "TCLP Metals": {
+      "Arsenic": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.100",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Barium": {
+        "Sample Result": "1.61",
+        "Units": "mg/L",
+        "Date Qualifier": "V",
+        "RL": "0.050",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Cadmium": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.050",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Chromium": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.050",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Copper": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.050",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Lead": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.100",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Mercury": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.0002",
+        "Method": "EPA245.1 3.0",
+        "Analyst Cerlification": "RJD",
+        "Analysis Date/Time": "08/25/14 20:25"
+      },
+      "Nickel": {
+        "Sample Result": "0.057",
+        "Units": "mg/L",
+        "RL": "0.050",
+        "Method": "EPA200.7 4 4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Selenium": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0.200",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Silver": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "RL": "0 050",
+        "Method": "EPA200.7 4 4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      },
+      "Zinc": {
+        "Sample Result": "0.719",
+        "Units": "mg/L",
+        "Date Qualifier": "V",
+        "RL": "0.100",
+        "Method": "EPA200.7 4.4",
+        "Analyst Cerlification": "RAE",
+        "Analysis Date/Time": "08/25/14 14:53"
+      }
+    },
+    "TCLP Volatile Organics": {
+      "Vinyl chloride": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "1,1-Dichloroethene": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "2 Butanone": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0200",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Chloroform": {
+        "Sample Result": "0.0327",
+        "Units": "mg/L",
+        "Date Qualifier": "D,V",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Carbon Tetrachloride": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Benzene": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "1,2-Dichloroethane": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Trichloroethene": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "0.0100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Tetrachloroethene": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "00100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Chlorobenzene": {
+        "Sample Result": "ND",
+        "Units": "mg/L",
+        "Date Qualifier": "D",
+        "RL": "00100",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00"
+      },
+      "Surrogate: 1,2 Dichloroethane-d4": {
+        "Sample Result": "107%",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00",
+        "Unmapped_Column_0": "86-118"
+      },
+      "Surrogate: Toluene-d8": {
+        "Sample Result": "96 %",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15:00",
+        "Unmapped_Column_0": "88-110"
+      },
+      "Surrogate: 4-Bromofluorobenzene": {
+        "Sample Result": "%3%",
+        "Method": "EPA8260",
+        "Analyst Cerlification": "RMO",
+        "Analysis Date/Time": "08/20/14 15.00",
+        "Unmapped_Column_0": "86-115"
+      }
+    }
+  }
+}
